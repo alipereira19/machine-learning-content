@@ -39,7 +39,7 @@ El área debajo de $f(x)$ entre $x = a$ y $x = b$ se obtiene calculando el cambi
 
 ![calculus_graph5.jpg](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/assets/calculus_graph5.jpg?raw=true)
 
-Podemos aproximar el área total debajo de la función $f(x)$ entre $x = a$ y $x = b$ separando el gráfico en pequeñas tiras rectangulares verticales de width $h$, luego sumando las áreas de esas tiras rectangulares. La figura debajo enseña cómo calcular el área bajo $f(x) = x2$ entre $x = 3$ y $x = 6$ aproximándola como seis franjas rectangulares de width $h = 0,5$.
+Podemos aproximar el área total debajo de la función $f(x)$ entre $x = a$ y $x = b$ separando el gráfico en pequeñas tiras rectangulares verticales de width $h$, luego sumando las áreas de esas tiras rectangulares. La figura debajo enseña cómo calcular el área bajo $f(x) = x2$ entre $x = 3$ y $x = 6$ aproximándola como seis franjas rectangulares de ancho $h = 0,5$.
 
 Para recapitular, $A(x)$ que da el área bajo el gráfico de x2 entre un punto fijo a la izquierda y un punto variable a la derecha nos da un claro panorama de que muchos problemas prácticos que se pueden aproximar sumando un gran número de cosas pequeñas se pueden replantear como una pregunta sobre el área bajo cierta curva.
 
